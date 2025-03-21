@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [REPLACE WITH WORKING GROUP NAME](#wg-details).  
+- [Automation Assessment](#wg-details)
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -18,37 +18,43 @@ Every FedRAMP CWG has the following primary objectives:
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 1. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
-## REPLACE WITH WORKING GROUP NAME {#wg-details}
+## Automating Assessment {#wg-details}
 
-REPLACE WITH WORKING GROUP SCOPE DETAILS
+FedRAMP 20x is focused on building a cloud-native, automated security assessment process that enables continuous innovation. This means that instead of evidence consisting of screenshots, we want evidence provided continuously based on actual configurations. 
+
+Your focus in this working group will be on the development of industry standards and tools to automate assessment, reporting, and/or the enforcement of technical controls. You will also focus on collaborating on the underlying control translations to make this easy, and sharing guidance on implementation. Start small, go big. 
+
 
 ## Participation
 
 FedRAMP CWGs are open to the public and all members of the community may participate or follow along. 
 
-The [REPLACE WITH WORKING GROUP NAME] CWG is especially relevant for members of the following communities:
+The Automating Assessment CWG is especially relevant for members of the following communities:
 
-- Security & Compliance managers at cloud service providers
-- Etc. (be specificish)
+- Developers at Cloud Service Providers
+- Security Professionals at Cloud Service Providers
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
-[REPLACE WITH: Identify and list specific activities to be accomplished. This includes such activities as developing specific software or methodologies and the location of any public GitHub repositories.]
-- Activity One
-  - Details
-- Activity Two
-  - Details
-- Activity Three
-  - Details
 
-    
+This group will be very outcome-driven, with multiple objectives. In order of priority, our goals are to:
+
+- Develop the FedRAMP 2025 Key Security Indicators (KSIs)
+  - Key Security Indicators are straightforward, measurable and comparable translations of traditional controls. You can see our initial, proof-of-concept KSIs [here](https://github.com/FedRAMP/new-fangled-thing/blob/develop/KSIs/human_readable_ksis.md).
+  - This task will also include determining KSI implementation guidance, types of evidence, frequency of reporting, etc.
+- Build out an open-source, machine-readable data format for communicating the Key Security Indicators (KSIs).
+  - You can see a proof of concept data format [here](https://github.com/FedRAMP/new-fangled-thing-models/blob/develop/examples/requirements_good.json).
+  - This will serve as the foundation for future automation
+- Build out an open-source, machine readable data format for communicating validations, or responses to the KSIs
+  - You can see a proof of concept data format [here](https://github.com/FedRAMP/new-fangled-thing-models/blob/develop/examples/attestation_evidence_combined_good.json).
+  - Preliminary ideas include generating software libraries from this data model to make integration with existing systems seamless and developer-driven.
+
+
 ## Interaction with FedRAMP
-The [CWG Name] CWG will be managed by the following member of the FedRAMP PMO:
-- Name, GitHub Username
-In addition, the following members of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
-- Name, GitHub Username
-- Name, GitHub Username
-- Name, GitHub Username
+The Automating Assessment CWG will be managed by the following member of the FedRAMP PMO:
+- Kylie Hunter, @kyhu65867
+In addition, the following member of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
+- Dan Chandler, @dan-fedramp
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
@@ -56,8 +62,8 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This working group will primarily operate on GitHub in the following repository and Discussion forum:
-- [REPLACE WITH WORKING GROUP NAME Repo](/)
-- [REPLACE WITH WORKING GROUP NAME Group Discussion](../../discussions)
+- automating-assessment-cwg(/)
+- [Automating Assessment Group Discussion](../../discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 - Zoom signup link
@@ -72,4 +78,4 @@ Every two weeks, the Community Manager will post a Summary of Activity to the CW
 
   
 ## Changes to CWG Operations
-FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 2025 and will make necessary adjustments.
+FedRAMP Community Working Groups are a new idea that will need to be continuously and incrementally improved. FedRAMP is committed to supporting CWGs throughout the development of FedRAMP 20x and will make necessary adjustments.
