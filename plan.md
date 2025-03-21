@@ -64,7 +64,7 @@ FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from
 
 ## Transparency and Communication
 This working group will primarily operate on GitHub in the following repository and Discussion forum:
-- automating-assessment-cwg(/)
+- [Automating Assessment Repository](/)
 - [Automating Assessment Group Discussion](../../discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
