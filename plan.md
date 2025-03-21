@@ -70,8 +70,10 @@ This working group will primarily operate on GitHub in the following repository 
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
+
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
+
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
