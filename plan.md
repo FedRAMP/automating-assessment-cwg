@@ -24,6 +24,8 @@ FedRAMP 20x is focused on building a cloud-native, automated security assessment
 
 Your focus in this working group will be on the development of industry standards and tools to automate assessment, reporting, and/or the enforcement of technical controls. You will also focus on collaborating on the underlying control translations to make this easy, and sharing guidance on implementation. Start small, go big. 
 
+For this working group specifically, weekly town halls will alternate between developing Key Security Indicators and creating machine readable data formats for communication between FedRAMP and CSPs. To read more about these activities, see [here](#key-community-working-groups-activities). 
+
 
 ## Participation
 
@@ -66,9 +68,9 @@ This working group will primarily operate on GitHub in the following repository 
 - [Automating Assessment Group Discussion](../../discussions)
 
 The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
-- Zoom signup link
+- [Zoom signup link](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
-- YouTube Link, #hashtag / playlist / or whatever
+- [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
