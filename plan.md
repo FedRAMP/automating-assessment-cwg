@@ -55,6 +55,7 @@ This group will be very outcome-driven, with multiple objectives. In order of pr
 ## Interaction with FedRAMP
 The Automating Assessment CWG will be managed by the following member of the FedRAMP PMO:
 - Kylie Hunter, @kyhu65867
+
 In addition, the following member of the FedRAMP PMO will support this community as FedRAMP advocates, sharing additional information and addressing feedback as appropriate:
 - Dan Chandler, @dan-fedramp
 
