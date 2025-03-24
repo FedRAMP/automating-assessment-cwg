@@ -35,6 +35,7 @@ The Automating Assessment CWG is especially relevant for members of the followin
 
 - Developers at Cloud Service Providers
 - Security Professionals at Cloud Service Providers
+- Commercial and community driven security standard organizations and personnel
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
