@@ -35,8 +35,8 @@ The Automating Assessment CWG is especially relevant for members of the followin
 
 - Developers from IaaS/PaaS providers
 - Security Professionals from IaaS/PaaS providers
-- Developers at Cloud Service Providers
-- Security Professionals at Cloud Service Providers
+- Developers at any Cloud Service Provider, whether FedRAMP authorized or not
+- Security Professionals at any Cloud Service Provider, whether FedRAMP authorized or not
 - Commercial and community driven security standard organizations and personnel
 
 ## Key Community Working Groups Activities
