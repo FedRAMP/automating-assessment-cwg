@@ -45,13 +45,11 @@ FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP
 This group will be very outcome-driven, with multiple objectives. In order of priority, our goals are to:
 
 - Develop the FedRAMP 2025 Key Security Indicators (KSIs)
-  - Key Security Indicators are straightforward, measurable and comparable translations of traditional controls. You can see our initial, proof-of-concept KSIs [here](https://github.com/FedRAMP/new-fangled-thing/blob/develop/KSIs/human_readable_ksis.md).
+  - Key Security Indicators are straightforward, measurable and comparable translations of traditional controls.
   - This task will also include determining KSI implementation guidance, types of evidence, frequency of reporting, etc.
 - Build out an open-source, machine-readable data format for communicating the Key Security Indicators (KSIs).
-  - You can see a proof of concept data format [here](https://github.com/FedRAMP/new-fangled-thing-models/blob/develop/examples/requirements_good.json).
   - This will serve as the foundation for future automation
 - Build out an open-source, machine readable data format for communicating validations, or responses to the KSIs
-  - You can see a proof of concept data format [here](https://github.com/FedRAMP/new-fangled-thing-models/blob/develop/examples/attestation_evidence_combined_good.json).
   - Preliminary ideas include generating software libraries from this data model to make integration with existing systems seamless and developer-driven.
 - Determine preliminary scoring criteria, or points of comparison to display publicly on the marketplace.
   - This is in preparation for developing APIs in the future to communicate with the marketplace.
