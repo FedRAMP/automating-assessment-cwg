@@ -1,4 +1,4 @@
-# Community Working Group Plan
+# Automating Assessment Community Working Group Plan
 
 ## Table of Contents 
 - [Background](#background)
