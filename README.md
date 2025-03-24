@@ -1,8 +1,7 @@
 # Automating Assessment Community Working Group
-Our kickoff workgroup meeting is occuring **4/2/2025 from 1:00-2:00 PM ET**. 
-You can register for our kickoff meeting [here](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ).
+Welcome to the Automating Assessment Community Working Group! Please refer to the [Working Group Plan](./plan.md) for information about the goals and primary audience of the working group.
 
-You can find registration information for future meetings on this page shortly. 
+The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A: The first meeting will be held on **Wednesday, April 2nd, from 1-2 PM ET via Zoom**.
 
-You can find more information about this working group [here](./plan.md).
+[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
 
