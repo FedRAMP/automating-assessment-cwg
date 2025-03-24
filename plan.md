@@ -33,6 +33,8 @@ FedRAMP CWGs are open to the public and all members of the community may partici
 
 The Automating Assessment CWG is especially relevant for members of the following communities:
 
+- Developers from IaaS/PaaS providers
+- Security Professionals from IaaS/PaaS providers
 - Developers at Cloud Service Providers
 - Security Professionals at Cloud Service Providers
 - Commercial and community driven security standard organizations and personnel
@@ -51,6 +53,8 @@ This group will be very outcome-driven, with multiple objectives. In order of pr
 - Build out an open-source, machine readable data format for communicating validations, or responses to the KSIs
   - You can see a proof of concept data format [here](https://github.com/FedRAMP/new-fangled-thing-models/blob/develop/examples/attestation_evidence_combined_good.json).
   - Preliminary ideas include generating software libraries from this data model to make integration with existing systems seamless and developer-driven.
+- Determine preliminary scoring criteria, or points of comparison to display publicly on the marketplace.
+  - This is in preparation for developing APIs in the future to communicate with the marketplace.
 
 
 ## Interaction with FedRAMP
