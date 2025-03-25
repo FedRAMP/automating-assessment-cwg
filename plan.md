@@ -33,11 +33,10 @@ FedRAMP CWGs are open to the public and all members of the community may partici
 
 The Automating Assessment CWG is especially relevant for members of the following communities:
 
-- Developers from IaaS/PaaS providers
-- Security Professionals from IaaS/PaaS providers
-- Developers at any Cloud Service Provider, whether FedRAMP authorized or not
-- Security Professionals at any Cloud Service Provider, whether FedRAMP authorized or not
-- Commercial and community driven security standard organizations and personnel
+- Developers
+- Security Professionals
+- Anyone else who is passionate about streamlining and automating the security assessment and monitoring process. 
+
 
 ## Key Community Working Groups Activities
 FedRAMP advocates may drive discussion on specific topics of interest to FedRAMP but participants are strongly encouraged to self-organize around activities related to the CWG. 
