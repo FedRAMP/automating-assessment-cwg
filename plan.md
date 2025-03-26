@@ -51,13 +51,13 @@ This group will be very outcome-driven, with multiple objectives. In order of pr
   - Preliminary ideas include generating software libraries from this data model to make integration with existing systems seamless and support developer-driven continuous improvement.
 
 ## Interaction with FedRAMP
-The Automating Assessment CWG will be managed by the following member of the FedRAMP PMO:
+The Automating Assessment CWG will be mediated by the following member of the FedRAMP PMO:
 - Kylie Hunter, @kyhu65867
 
 In addition, the following member of the FedRAMP PMO will support this community as a FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
 - Dan Chandler, @dan-fedramp
 
-All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Manager and FedRAMP advocates.
+All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
 FedRAMP’s Disclaimer of Liability and Endorsement applies to all activity from government representatives participating in the CWG: https://fedramp.gov/disclaimer
 
@@ -66,13 +66,13 @@ This working group will primarily operate on GitHub in the following repository 
 - [Automating Assessment Repository](/)
 - [Automating Assessment Group Discussion](../../discussions)
 
-The community manager will host a weekly hour-long town hall for managed discussion, updates, and Q&A:
+The community mediator will host a biweekly hour-long town hall for mediated discussion, updates, and Q&A:
 - [Zoom signup link](https://gsa.zoomgov.com/meeting/register/ZlO0X7BTQIWxSCqdIeeoZQ)
 
 Recordings from each town hall will be publicly posted on FedRAMP’s YouTube channel as follows:
 - [FedRAMP Youtube Channel](https://www.youtube.com/@FedRAMP)
 
-Every two weeks, the Community Manager will post a Summary of Activity to the CWG that includes the following:
+Every two weeks, the Community Mediator will post a Summary of Activity to the CWG that includes the following:
 - Recap of questions asked by FedRAMP
 - Recap of major topics of discussion
 - Recap of major topics from the weekly town halls
