@@ -2,7 +2,7 @@
 
 ## Table of Contents 
 - [Background](#background)
-- [Automation Assessment](#wg-details)
+- [Automating Assessment](#automating-assessment)
 - [Participation](#participation)
 - [Key Community Working Groups Activities](#key-community-working-groups-activities)
 - [Interaction with FedRAMP](#interaction-with-fedramp)
@@ -17,7 +17,7 @@ Every FedRAMP CWG has the following primary objectives:
 1. Ensure FedRAMP has direct insight into community activities, goals, achievements, best practices, etc. in specific areas to inform creation of standards and policies prior to their formal development.
 1. Ensure that FedRAMP stakeholders have equal public access to information from FedRAMP and an open forum and semi-structured opportunities to work towards shared goals in different and innovative ways.
 
-## Automating Assessment {#wg-details}
+## Automating Assessment  
 FedRAMP 20x is focused on a cloud-native, automated security assessment process that enables continuous innovation. Instead of evidence consisting of screenshots, we want evidence provided continuously based on actual configurations. 
 
 Your focus in this working group will be on the development of industry standards and tools to automate assessment, reporting, and/or the enforcement of technical controls. You will also focus on collaborating on the underlying control translations to make this easy, and sharing guidance on implementation. Start small, go big. 
@@ -52,10 +52,10 @@ This group will be very outcome-driven, with multiple objectives. In order of pr
 
 ## Interaction with FedRAMP
 The Automating Assessment CWG will be mediated by the following member of the FedRAMP PMO:
-- Kylie Hunter, @kyhu65867
+- Kylie Hunter, [@kyhu65867]([kyhu65867](https://github.com/kyhu65867)  
 
 In addition, the following member of the FedRAMP PMO will support this community as a FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
-- Dan Chandler, @dan-fedramp
+- Dan Chandler, [@dan-fedramp](https://github.com/dan-fedramp)  
 
 All communication related to this community must take place in public; private messages and emails related to this community will be ignored by the Community Mediator and FedRAMP advocates.
 Industry professionals should be aware there are limitations on how the federal government and its representatives can engage in CWGs. FedRAMP will not use working groups to seek consensus advice, review formal draft guidance or policies in place of public comment, or direct work on behalf of the government.
