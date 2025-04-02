@@ -52,7 +52,7 @@ This group will be very outcome-driven, with multiple objectives. In order of pr
 
 ## Interaction with FedRAMP
 The Automating Assessment CWG will be mediated by the following member of the FedRAMP PMO:
-- Kylie Hunter, [@kyhu65867]([kyhu65867](https://github.com/kyhu65867)  
+- Kylie Hunter, [@kyhu65867](https://github.com/kyhu65867)
 
 In addition, the following member of the FedRAMP PMO will support this community as a FedRAMP advocate, sharing additional information and addressing feedback as appropriate:
 - Dan Chandler, [@dan-fedramp](https://github.com/dan-fedramp)  
