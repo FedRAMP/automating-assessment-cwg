@@ -1,7 +1,7 @@
 # Automating Assessment Community Working Group
 Welcome to the Automating Assessment Community Working Group! Please refer to the [Working Group Plan](./plan.md) for information about the goals and primary audience of the working group.
 
-The community manager will host a biweekly 30 minute town hall on Wednesdays at 1:00 PM ET on Zoom for managed discussion, updates, and Q&A, starting on on **Wednesday, April 2nd**. 
+The community mediator will host a biweekly 30 minute town hall on Wednesdays at 1:00 PM ET on Zoom for managed discussion, updates, and Q&A, starting on on **Wednesday, April 2nd**. 
 
 [REGISTER HERE](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw) for the **recurring** automating assessment townhall meeting series. 
 
