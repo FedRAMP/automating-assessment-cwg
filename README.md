@@ -12,8 +12,9 @@ The community mediator will host a biweekly 30 minute town hall on Wednesdays at
 
 Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
 
-| Meeting Date | Meeting Slide Deck | Zoom Recording Link | Zoom Recording Password | Youtube Link | Duration |
-|--------------|--------------------|---------------------|-------------------------|--------------|----------|
-| 4/2/2025     | [Kickoff Slide Deck](./townhall-slidedecks/4-2-2025-townhall-kickoff-slides.pptx) | NA | NA  | [Youtube Link](https://www.youtube.com/watch?v=1cNDX_1Q-uA)  | 22:44 |
-| 4/16/2025    | [Kickoff Slide Deck](./townhall-slidedecks/4-16-2025-townhall-slides.pptx) | NA | NA | [Youtube Link](https://www.youtube.com/watch?v=BtSMAOtplQM) | 29:05 |
-| 4/30/2025    | [Kickoff Slide Deck](./townhall-slidedecks/4-30-2025-townhall-slides.pptx) | NA | NA | [Youtube Link](https://www.youtube.com/watch?v=IIRoPUykBRo) | 51:13 |
+| Meeting Date | Meeting Slide Deck | Youtube Link | Duration |
+|--------------|--------------------|--------------|----------|
+| 4/2/2025     | [Kickoff Slide Deck](./townhall-slidedecks/4-2-2025-townhall-kickoff-slides.pptx) | [Youtube Link](https://www.youtube.com/watch?v=1cNDX_1Q-uA)  | 22:44 |
+| 4/16/2025    | [Kickoff Slide Deck](./townhall-slidedecks/4-16-2025-townhall-slides.pptx) | [Youtube Link](https://www.youtube.com/watch?v=BtSMAOtplQM) | 29:05 |
+| 4/30/2025    | [Kickoff Slide Deck](./townhall-slidedecks/4-30-2025-townhall-slides.pptx) | [Youtube Link](https://www.youtube.com/watch?v=IIRoPUykBRo) | 51:13 |
+| 5/14/2025 | TBD | TBD | TBD |
