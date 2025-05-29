@@ -1,16 +1,10 @@
-# Automating Assessment Community Working Group
-Welcome to the Automating Assessment Community Working Group! Please refer to the [Working Group Plan](./plan.md) for information about the goals and primary audience of the working group.
+# Automating Assessment Community Working Group Archive
 
-The community mediator will host a biweekly 30 minute town hall on Wednesdays at 1:00 PM ET on Zoom for managed discussion, updates, and Q&A, starting on on **Wednesday, April 2nd**. 
-
-[REGISTER HERE](https://gsa.zoomgov.com/meeting/register/FpW3sJuBRxag_1Mz49J0Cw) for the **recurring** automating assessment townhall meeting series. 
-
-
-
+Welcome to the archived repository and discussion forum for the Automating Assessment Community Working Group! FedRAMP no longer maintains this repository. The PMO consolidated all community working groups into a new repository and forum, [github.com/FedRAMP/community](https://github.com/FedRAMP/community/discussions/). You can find more information about this change at the [fedramp.gov/community](https://fedramp.gov/community) page.
 
 ## Meeting Recordings
 
-Recordings for the town hall meetings can be found below. The links to the recordings may be posted a business day or two after the meeting occurred. 
+To quickly access the most recent meeting recordings, click a YouTube link for a specific recording or open this group's playlist on YouTube [with this link](https://www.youtube.com/c/FedRAMP).
 
 | Meeting Date | Meeting Slide Deck | Youtube Link | Duration |
 |--------------|--------------------|--------------|----------|
